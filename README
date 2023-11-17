@@ -1,1 +1,16 @@
-abc
+CS114: Python Machine Learning Practices
+Welcome to the CS114 repository! This is where I store my Python code practices and lab work related to Machine Learning, as part of the CS114 course at the University of Information Technology (UIT).
+
+Overview
+Code Practices: Explore Python implementations of fundamental ML algorithms and techniques.
+
+Lab Work: Find hands-on exercises and projects from the CS114 labs, covering diverse ML topics.
+
+How to Use
+Feel free to navigate through the folders to access specific exercises or projects. Each directory contains code snippets, scripts, or Jupyter notebooks related to the corresponding topic.
+
+Contributions
+Contributions and feedback are welcome! If you have suggestions, improvements, or additional exercises, feel free to open an issue or submit a pull request.
+
+Happy Coding!
+Explore, learn, and enjoy the journey of mastering Python for Machine Learning.

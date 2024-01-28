@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Listening"
+    },
+    {
+      "id": 1,
+      "name": "Name"
+    },
+    {
+      "id": 2,
+      "name": "Reading"
+    },
+    {
+      "id": 3,
+      "name": "Speaking"
+    },
+    {
+      "id": 4,
+      "name": "Test_date"
+    },
+    {
+      "id": 5,
+      "name": "Valid_date"
+    },
+    {
+      "id": 6,
+      "name": "Writing"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
